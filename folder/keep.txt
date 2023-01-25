@@ -1,0 +1,5 @@
+helper = str("Алиса")
+print("Я – Ваш помощник", helper)
+user_name = input("Введите Ваше имя:  ")
+user_age = int(input("Введите Ваш возраст:  "))
+user_job = int(input("С какого возраста Вы в IT?  "))
